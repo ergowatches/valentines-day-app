@@ -339,7 +339,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8 }}
           >
-            With love, Ashhh 💝
+            With love, your hedgehog 💝
           </motion.p>
           <motion.div 
             className="mt-12 flex justify-center gap-6"
