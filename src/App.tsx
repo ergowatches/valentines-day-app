@@ -331,7 +331,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5 }}
           >
-            Thank you for saying yes, Taya! ❤️
+            Wooooo ok so on Thursday we're going to dinner at this amazing Italian place and I will book for around 8pm so don't be late!!! ❤️
           </motion.p>
           <motion.p 
             className="text-xl"
