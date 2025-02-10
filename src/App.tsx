@@ -124,7 +124,7 @@ function App() {
     },
     {
       title: "And ykwwwww ✨",
-      content: "Even though ur crazy, I mean super nice I really like you",
+      content: "Even though ur crazy, I mean super nice sorry typo... I really like you <33",
       icon: <Sparkles className="w-16 h-16 text-purple-500 animate-bounce-slow" />,
       bgColor: "from-purple-400 via-pink-300 to-indigo-400",
     },
